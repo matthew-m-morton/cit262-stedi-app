@@ -1,7 +1,7 @@
 // hello.test.mjs
 
 import assert from 'assert';
-import { sayHello } from './helloworld.js';
+import { sayHello } from '../utils/helloworld.js';
 
 function testSayHello() {
   const result = sayHello();

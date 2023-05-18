@@ -1,3 +1,3 @@
-import {sayHello} from "./helloworld.js";
+import {sayHello} from "./utils/helloworld.js";
 
 console.log(sayHello());
